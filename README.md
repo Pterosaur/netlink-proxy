@@ -1,2 +1,3 @@
 # netlink-proxy
-A netlink proxy kernel module to forward messages between user-space processes
+
+A netlink proxy kernel module to forward/broadcast messages between user-space processes
